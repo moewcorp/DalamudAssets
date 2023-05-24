@@ -18,7 +18,7 @@ if recover_cheatname:
 cheatplugin = requests.get("https://raw.githubusercontent.com/ottercorp/DalamudAssets/cn/UIRes/cheatplugin.json").json()
 meta = requests.get("https://aonyx.ffxiv.wang/Dalamud/Asset/Meta").json()
 print(f"Assets Version: {meta['Version']}")
-os.environ["AssetsVersion"]=meta['Version']
+os.environ["AssetsVersion"]=str(meta['Version'])
 print(f"CheatBannedLen: {len(cheatplugin)}")
 
 for plugin in cheatplugin:
