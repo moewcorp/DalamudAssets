@@ -1,0 +1,31 @@
+[
+    {
+        "Name": "Splatoon",
+        "AssemblyVersion": "0.0.0.0"
+    },
+    {
+        "Name": "XIVAutoAttack",
+        "AssemblyVersion": "0.0.0.0"
+    },
+    {
+        "Name": "AutoAction_CN",
+        "AssemblyVersion": "0.0.0.0"
+    },
+    {
+        "Name": "PvPSelector",
+        "AssemblyVersion": "0.0.0.0"
+    },
+    {
+        "Name": "Saucy",
+        "AssemblyVersion": "0.0.0.0"
+    },
+    {
+        "Name": "XIVSlothCombo",
+        "AssemblyVersion": "0.0.0.0"
+    },
+    {
+        "Name": "NKPlugin",
+        "AssemblyVersion": "0.0.0.0",
+        "Reason": "K佬说不可以,K."
+    }
+]
