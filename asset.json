@@ -1,5 +1,5 @@
 {
-    "Version": 71,
+    "Version": 72,
     "Assets": [
         {
             "Url": "https://aonyx.ffxiv.wang/File/Get/serveropcode.7f022c50a0632bd869753bbb26a537c3e6bc87745fe857ac6f1d706698318a7e.json",
@@ -137,9 +137,9 @@
             "Hash": "3E64735D9859AB0D0DBBB2CA0483C6C2D454896A"
         },
         {
-            "Url": "https://aonyx.ffxiv.wang/File/Get/dalamud_zh.f8097e5c04efca5a8fba6dc3fdac50badbedc336786665a09c427cb5147dd144.json",
+            "Url": "https://aonyx.ffxiv.wang/File/Get/dalamud_zh.feaea88b7b5e9d9697e77a1f21744ff4b26fc354a86b3b196a6153fe6a986c1c.json",
             "FileName": "UIRes/loc/dalamud/dalamud_zh.json",
-            "Hash": "125CAF26AF20D56D53F40C3DF0015B573CD5E389"
+            "Hash": "1D46520002B33EC86D1A5D598DEF077F7A1D2A93"
         },
         {
             "Url": "https://aonyx.ffxiv.wang/File/Get/dalamud_tw.09ba5f2c34ee706c02c2ebf90d109b73c6e22c678d95e309f5cf245d7f3140d1.json",
