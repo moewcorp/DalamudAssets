@@ -40,7 +40,7 @@ print(f"Hash: {readable_hash}")
 
 for item in meta["Assets"]:
     if item["FileName"]=="UIRes/cheatplugin.json":
-        item["Url"]="https://raw.githubusercontent.com/gamous/XIVLauncherEX/main/Asset/cheatplugin.json"
+        item["Url"]="https://raw.githubusercontent.com/moewcorp/DalamudAssets/main/UIRes/cheatplugin.json"
         item["Hash"]=readable_hash
 
 with codecs.open("asset.json", "w") as f:
