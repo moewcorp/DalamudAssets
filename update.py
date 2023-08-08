@@ -9,9 +9,6 @@ if recover_cheatname:
     all_plugins=set(["NKPlugin"])
     for plugin in plugins:
         all_plugins.add(plugin["name"])
-    for repo in repos:
-        for plugin in repo["plugins"]:
-            all_plugins.add(plugin["internalName"])
     print(f"Found plugins: {len(all_plugins)}")
     all_plugins_hashs={hashlib.sha256(name.encode("utf-8")).hexdigest().upper():name for name in all_plugins}
 
