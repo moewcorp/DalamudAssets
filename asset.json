@@ -1,15 +1,15 @@
 {
-    "Version": 74,
+    "Version": 75,
     "Assets": [
         {
-            "Url": "https://aonyx.ffxiv.wang/File/Get/serveropcode.d42de6d90d9ab83a81807ffa639853a08db591656280bab53125458fff1cb01b.json",
+            "Url": "https://aonyx.ffxiv.wang/File/Get/serveropcode.6853ca77bd21594613e0f63dfacaad98447492eaf439b18f3a9c92da93497cb5.json",
             "FileName": "UIRes/serveropcode.json",
-            "Hash": "E76AEA05AF1C7AA5E9A3515636C837B5B3BECD7B"
+            "Hash": "05141A98410CF10C8B912DB6E26107B31CFA504D"
         },
         {
-            "Url": "https://aonyx.ffxiv.wang/File/Get/clientopcode.d66fb25b2e043854353bfbc686d5004f6602bd92fc55e71a2ac33dd8d26ec549.json",
+            "Url": "https://aonyx.ffxiv.wang/File/Get/clientopcode.ae1fd6569b7f3aaf18d5dd061dee72c18349e6087f4ebb0e46236d37d3553fd7.json",
             "FileName": "UIRes/clientopcode.json",
-            "Hash": "BCFCF240729E53FCC09A846B6AB077EAED3B2124"
+            "Hash": "AC5FE02243B063BB52B9AAA0B651107EA6EF7E6F"
         },
         {
             "Url": "https://aonyx.ffxiv.wang/File/Get/bannedplugin.042f987d17ac3dcc32ee31253bb6680daaa1ae24f21ebb72f2b47b0b5d0ad4be.json",
@@ -19,7 +19,7 @@
         {
             "Url": "https://raw.githubusercontent.com/moewcorp/DalamudAssets/main/UIRes/cheatplugin.json",
             "FileName": "UIRes/cheatplugin.json",
-            "Hash": "4973DF8EAD8F6BD80E913E747C2E70B5ABD8279D"
+            "Hash": "70C6595A4D416E4140AFC2766737003C888313C3"
         },
         {
             "Url": "https://mirrors.ustc.edu.cn/CTAN/fonts/notocjksc/NotoSansCJKsc-Medium.otf",
