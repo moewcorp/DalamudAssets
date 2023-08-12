@@ -1,15 +1,15 @@
 {
-    "Version": 75,
+    "Version": 76,
     "Assets": [
         {
-            "Url": "https://aonyx.ffxiv.wang/File/Get/serveropcode.6853ca77bd21594613e0f63dfacaad98447492eaf439b18f3a9c92da93497cb5.json",
+            "Url": "https://aonyx.ffxiv.wang/File/Get/serveropcode.935c42eb6792838953d6a3a0c9ce8f548161d07c221abca5cef9019bbef21804.json",
             "FileName": "UIRes/serveropcode.json",
-            "Hash": "05141A98410CF10C8B912DB6E26107B31CFA504D"
+            "Hash": "9BF893C2B113EAB40CBE480AFEB4C3EB3B40056C"
         },
         {
-            "Url": "https://aonyx.ffxiv.wang/File/Get/clientopcode.ae1fd6569b7f3aaf18d5dd061dee72c18349e6087f4ebb0e46236d37d3553fd7.json",
+            "Url": "https://aonyx.ffxiv.wang/File/Get/clientopcode.bb449e058ab4ddd8152c38915ac3c8cb38f65d2e46389c4b721384f4de3a3c3e.json",
             "FileName": "UIRes/clientopcode.json",
-            "Hash": "AC5FE02243B063BB52B9AAA0B651107EA6EF7E6F"
+            "Hash": "07B625BB6AA8D741C75F9B3B265C33CC8A8E7561"
         },
         {
             "Url": "https://aonyx.ffxiv.wang/File/Get/bannedplugin.042f987d17ac3dcc32ee31253bb6680daaa1ae24f21ebb72f2b47b0b5d0ad4be.json",
