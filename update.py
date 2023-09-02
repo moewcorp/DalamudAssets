@@ -11,7 +11,11 @@ if recover_cheatname:
         all_plugins.add(plugin["name"])
     for repo in repos:
         for plugin in repo["plugins"]:
-            all_plugins.add(plugin["name"])
+            try:
+                all_plugins.add(plugin["name"])
+            except KeyError:
+                print(f"KeyError occurred for plugin: {plugin}")
+                continue
     print(f"Found plugins: {len(all_plugins)}")
     all_plugins_hashs={hashlib.sha256(name.encode("utf-8")).hexdigest().upper():name for name in all_plugins}
 
@@ -45,6 +49,3 @@ for item in meta["Assets"]:
 
 with codecs.open("asset.json", "w") as f:
     json.dump(meta, f, indent=4)
-
-
-
