@@ -12,14 +12,14 @@
             "Hash": "07B625BB6AA8D741C75F9B3B265C33CC8A8E7561"
         },
         {
-            "Url": "https://aonyx.ffxiv.wang/File/Get/bannedplugin.042f987d17ac3dcc32ee31253bb6680daaa1ae24f21ebb72f2b47b0b5d0ad4be.json",
+            "Url": "https://aonyx.ffxiv.wang/File/Get/bannedplugin.0faacc3f0794d742b13f932f9226397fc4912e067de5181632db9f1caa169b80.json",
             "FileName": "UIRes/bannedplugin.json",
-            "Hash": "35138F81FA9C85CEF0511704AE966A2FAF97D34D"
+            "Hash": "EB0FB702750C09D3A3E5F5B2DA56E03B8AAD8B2C"
         },
         {
             "Url": "https://raw.githubusercontent.com/moewcorp/DalamudAssets/main/UIRes/cheatplugin.json",
             "FileName": "UIRes/cheatplugin.json",
-            "Hash": "E106614A8BDC26CCB4E97BC1C2EAFCCC748790C9"
+            "Hash": "000DAA58FC97E3608F44682AB4DBA3BCC899DD65"
         },
         {
             "Url": "https://mirrors.ustc.edu.cn/CTAN/fonts/notocjksc/NotoSansCJKsc-Medium.otf",
