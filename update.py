@@ -6,7 +6,7 @@ all_plugins_hashs=dict()
 if recover_cheatname:
     plugins = requests.get("https://api.xivplugins.com/v1/dalamud/plugins").json()
     repos = requests.get("https://api.xivplugins.com/v1/dalamud/repos").json()
-    all_plugins=set(["NKPlugin"])
+    all_plugins=set(["NKPlugin","AEAssist", "AEAssistLoader","AutoAction_CN", "AutoHook", "BossMod", "Orbwalker", "RotationSolver", "Redirect", "ReAction", "XIVSlothCombo", "Lock"])
     for plugin in plugins:
         all_plugins.add(plugin["name"])
     for repo in repos:
