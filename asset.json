@@ -1,20 +1,20 @@
 {
-    "Version": 76,
+    "Version": 82,
     "Assets": [
         {
-            "Url": "https://aonyx.ffxiv.wang/File/Get/serveropcode.520246a84498ac4912c2604f7afe65a01ea97a1f321826c8a0bc643dbac5f52e.json",
+            "Url": "https://aonyx.ffxiv.wang/File/Get/serveropcode.2d11c22dee913118a83e7f98672ee1a8a4c21eed0577b9b1fd7c79cffd3afbdf.json",
             "FileName": "UIRes/serveropcode.json",
-            "Hash": "7354FB855DF9CC00B786ACB3118E473338568F85"
+            "Hash": "EEB9AC357E3C18C41CD55DB5EA413E6F135979CA"
         },
         {
-            "Url": "https://aonyx.ffxiv.wang/File/Get/clientopcode.ffdab198b8994420e25b958429f220f4e5a6b34f7ef1b17be2a8baea10bea3cf.json",
+            "Url": "https://aonyx.ffxiv.wang/File/Get/clientopcode.3d491ccd77b4706d5f6425bbdff5060178cc051d4cd16ab23d6e2bddd4f8ead9.json",
             "FileName": "UIRes/clientopcode.json",
-            "Hash": "3927882FA9A3C3B11C6F399D42D6DA272854C018"
+            "Hash": "4EFD56D0057AE523CC7FE27319AD5A2105813172"
         },
         {
-            "Url": "https://aonyx.ffxiv.wang/File/Get/bannedplugin.510ad296de27f3daf0b4b7c2023918192212eb6acdb0af5f4395e39387babb05.json",
+            "Url": "https://aonyx.ffxiv.wang/File/Get/bannedplugin.cf5fba1314ba48d9c103300d06b095a7d059fb50ab753d95748c04f7372dbd8b.json",
             "FileName": "UIRes/bannedplugin.json",
-            "Hash": "6123DEBD3C8ACA0C934627AA81C115187EE34CA6"
+            "Hash": "FB6DD963E47C877F9950AB67579027A0687CCDC8"
         },
         {
             "Url": "https://raw.githubusercontent.com/moewcorp/DalamudAssets/main/UIRes/cheatplugin.json",
@@ -30,11 +30,6 @@
             "Url": "https://aonyx.ffxiv.wang/File/Get/FontAwesomeFreeSolid.72c42629cf97c33c19dd910185ea6aa95f34f27fb95f84ed15fe74359f910aaa.otf",
             "FileName": "UIRes/FontAwesomeFreeSolid.otf",
             "Hash": "4860698FEE75A5481CB00C744B7EB297ABDC455D"
-        },
-        {
-            "Url": "https://aonyx.ffxiv.wang/File/Get/MaterialIcons-Regular.bc66ff963b638caf6fdeb18428a75e55bd329f4aac1d50249d3345e0531d58f3.ttf",
-            "FileName": "UIRes/MaterialIcons-Regular.ttf",
-            "Hash": "40C76A23C94EC06287C97AD29031325BA1290886"
         },
         {
             "Url": "https://aonyx.ffxiv.wang/File/Get/Inconsolata-Regular.127875d255d4c5973ca57267a43bb9d1c04397e6c7d236984a595b6cdcb12b7c.ttf",
@@ -150,6 +145,31 @@
             "Url": "https://aonyx.ffxiv.wang/File/Get/gamesym.0d545502dd13665aacef9f21c9e260ab2c092e6c10e2668b4d206cf8249943e8.ttf",
             "FileName": "UIRes/gamesym.ttf",
             "Hash": "89BC6B5015EF0EDFA5AE272B3A406B54CF61C6F1"
+        },
+        {
+            "Url": "https://aonyx.ffxiv.wang/File/Get/devPluginIcon.03978a3a960a77ced709b9e805075fd3d097ab5f07c739f44d8066810a9546c7.png",
+            "FileName": "UIRes/devPluginIcon.png",
+            "Hash": "DC33AC5B811D32815BCB4C4261563EFFE532638E"
+        },
+        {
+            "Url": "https://aonyx.ffxiv.wang/File/Get/changelogApiBump.52c9c8c9d5178514d13ee4697526f8fcc46ca31bcea726aedffe60093f3a9534.png",
+            "FileName": "UIRes/changelogApiBump.png",
+            "Hash": "16BB14DEF2AD9894C9DA37483A6B0B9AADFCD72D"
+        },
+        {
+            "Url": "https://img.finalfantasyxiv.com/lds/pc/global/fonts/FFXIV_Lodestone_SSF.ttf",
+            "FileName": "UIRes/LodestoneGameSymbol.ttf",
+            "Hash": "89BC6B5015EF0EDFA5AE272B3A406B54CF61C6F1"
+        },
+        {
+            "Url": "https://aonyx.ffxiv.wang/File/Get/changelogApiBump.52c9c8c9d5178514d13ee4697526f8fcc46ca31bcea726aedffe60093f3a9534.png",
+            "FileName": "UIRes/changelogApiBump.png",
+            "Hash": "16BB14DEF2AD9894C9DA37483A6B0B9AADFCD72D"
+        },
+        {
+            "Url": "https://aonyx.ffxiv.wang/File/Get/missingFont.bb1328d2ea25f5905c12cb205809a357918cb1b318cb1c54db77c6b42832b57a.png",
+            "FileName": "UIRes/missingFont.png",
+            "Hash": "15CEFA7E00E86A3E47D93B557D574B3A3B272AC8"
         }
     ]
 }
