@@ -31,5 +31,9 @@
         "Name": "NKPlugin",
         "AssemblyVersion": "0.0.0.0",
         "Reason": "K佬说不可以,K."
+    },
+    {
+        "Name": "vfallguy",
+        "AssemblyVersion": "0.0.0.0"
     }
 ]

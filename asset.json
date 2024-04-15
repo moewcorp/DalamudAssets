@@ -1,5 +1,5 @@
 {
-    "Version": 82,
+    "Version": 94,
     "Assets": [
         {
             "Url": "https://aonyx.ffxiv.wang/File/Get/serveropcode.2d11c22dee913118a83e7f98672ee1a8a4c21eed0577b9b1fd7c79cffd3afbdf.json",
@@ -12,14 +12,14 @@
             "Hash": "4EFD56D0057AE523CC7FE27319AD5A2105813172"
         },
         {
-            "Url": "https://aonyx.ffxiv.wang/File/Get/bannedplugin.cf5fba1314ba48d9c103300d06b095a7d059fb50ab753d95748c04f7372dbd8b.json",
+            "Url": "https://aonyx.ffxiv.wang/File/Get/bannedplugin.fac1467dc160cff008031835c82affcb289d8cd328ae3543381821686e4cb7ae.json",
             "FileName": "UIRes/bannedplugin.json",
-            "Hash": "FB6DD963E47C877F9950AB67579027A0687CCDC8"
+            "Hash": "2F071EC1EEAF882D3DACADCD1DC33F443021E08F"
         },
         {
             "Url": "https://raw.githubusercontent.com/moewcorp/DalamudAssets/main/UIRes/cheatplugin.json",
             "FileName": "UIRes/cheatplugin.json",
-            "Hash": "B121181222DE60E0759D37BE9EB846BA3F1E2830"
+            "Hash": "1ABD9E385438D6B64BD8F54C38EA01E17ADF1B69"
         },
         {
             "Url": "https://mirrors.ustc.edu.cn/CTAN/fonts/notocjksc/NotoSansCJKsc-Medium.otf",
@@ -132,9 +132,9 @@
             "Hash": "3E64735D9859AB0D0DBBB2CA0483C6C2D454896A"
         },
         {
-            "Url": "https://aonyx.ffxiv.wang/File/Get/dalamud_zh.9524d89c37a0ce248446a65689d39e0d4c57f4cfa73649b7b3d5d9456cdaf4a1.json",
+            "Url": "https://aonyx.ffxiv.wang/File/Get/dalamud_zh.8413efce089c099fb273030194148e6bb5fcbe559795f2c6e5f77266162a1b8c.json",
             "FileName": "UIRes/loc/dalamud/dalamud_zh.json",
-            "Hash": "61362296D0D05A92DBEA44ABC1F07007A89CC6C9"
+            "Hash": "4087C4712C9746B4DC4B01F3677F1E275A7F7738"
         },
         {
             "Url": "https://aonyx.ffxiv.wang/File/Get/dalamud_tw.09ba5f2c34ee706c02c2ebf90d109b73c6e22c678d95e309f5cf245d7f3140d1.json",
@@ -157,7 +157,7 @@
             "Hash": "16BB14DEF2AD9894C9DA37483A6B0B9AADFCD72D"
         },
         {
-            "Url": "https://img.finalfantasyxiv.com/lds/pc/global/fonts/FFXIV_Lodestone_SSF.ttf",
+            "Url": "https://aonyx.ffxiv.wang/File/Get/LodestoneGameSymbol.0d545502dd13665aacef9f21c9e260ab2c092e6c10e2668b4d206cf8249943e8.ttf",
             "FileName": "UIRes/LodestoneGameSymbol.ttf",
             "Hash": "89BC6B5015EF0EDFA5AE272B3A406B54CF61C6F1"
         },
