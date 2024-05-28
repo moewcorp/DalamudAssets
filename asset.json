@@ -1,5 +1,5 @@
 {
-    "Version": 94,
+    "Version": 95,
     "Assets": [
         {
             "Url": "https://aonyx.ffxiv.wang/File/Get/serveropcode.2d11c22dee913118a83e7f98672ee1a8a4c21eed0577b9b1fd7c79cffd3afbdf.json",
@@ -12,9 +12,9 @@
             "Hash": "4EFD56D0057AE523CC7FE27319AD5A2105813172"
         },
         {
-            "Url": "https://aonyx.ffxiv.wang/File/Get/bannedplugin.fac1467dc160cff008031835c82affcb289d8cd328ae3543381821686e4cb7ae.json",
+            "Url": "https://aonyx.ffxiv.wang/File/Get/bannedplugin.ff5af669fea37cb21661cd03d4f420c1a09d87826de61b83143d88dddd9f1d39.json",
             "FileName": "UIRes/bannedplugin.json",
-            "Hash": "2F071EC1EEAF882D3DACADCD1DC33F443021E08F"
+            "Hash": "4871C09314F6AB7D47103712A5A5C206C2320B61"
         },
         {
             "Url": "https://raw.githubusercontent.com/moewcorp/DalamudAssets/main/UIRes/cheatplugin.json",
